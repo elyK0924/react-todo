@@ -1,0 +1,9 @@
+.todoItem {
+  list-style-type: none;
+}
+
+.todoContent {
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+}
